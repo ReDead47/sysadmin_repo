@@ -1,5 +1,4 @@
 #!/bin/sh
 
-echo "Branch: shell-script" #!/bin/sh
+echo "Branch: shell-script"
 
-echo "Branch: shell-script" 
